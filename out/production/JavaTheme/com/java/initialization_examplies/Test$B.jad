@@ -1,0 +1,31 @@
+// Decompiled by Jad v1.5.8g. Copyright 2001 Pavel Kouznetsov.
+// Jad home page: http://www.kpdus.com/jad.html
+// Decompiler options: packimports(3) 
+// Source File Name:   MainInitialisation.java
+
+package com.java.initialization_examplies;
+
+
+// Referenced classes of package com.java.initialization_examplies:
+//            Test
+
+class Test$B
+{
+
+    int a;
+    int b;
+    int c;
+    final Test this$0;
+
+    Test$B()
+    {
+        this$0 = Test.this;
+        super();
+        a = 1;
+        c = 3;
+        a = 11;
+        b = 22;
+        c = 33;
+        b = 2;
+    }
+}

@@ -1,0 +1,22 @@
+// Decompiled by Jad v1.5.8g. Copyright 2001 Pavel Kouznetsov.
+// Jad home page: http://www.kpdus.com/jad.html
+// Decompiler options: packimports(3) 
+// Source File Name:   MainInitialisation.java
+
+package com.java.initialization_examplies;
+
+
+// Referenced classes of package com.java.initialization_examplies:
+//            InnerClassTest0
+
+public class InnerClassTest0$Inner1
+{
+
+    final InnerClassTest0 this$0;
+
+    public InnerClassTest0$Inner1()
+    {
+        this$0 = InnerClassTest0.this;
+        super();
+    }
+}
