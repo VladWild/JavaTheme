@@ -1,4 +1,4 @@
-package com.java.advanced12;
+package com.java.advancedmiting.advanced12;
 
 public class Main {
     static volatile int I = 0;

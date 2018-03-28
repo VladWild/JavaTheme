@@ -1,4 +1,4 @@
-package com.java.advanced8;
+package com.java.advancedmiting.advanced8;
 
 class FirstClass {
 

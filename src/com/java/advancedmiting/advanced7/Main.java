@@ -1,6 +1,4 @@
-package com.java.advanced7;
-
-import java.util.concurrent.ExecutionException;
+package com.java.advancedmiting.advanced7;
 
 public class Main {
     public static void main(String[] args) {

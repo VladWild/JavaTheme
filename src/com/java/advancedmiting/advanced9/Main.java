@@ -1,4 +1,4 @@
-package com.java.advanced9;
+package com.java.advancedmiting.advanced9;
 
 public class Main {
     public static void main(String[] args) throws InterruptedException {

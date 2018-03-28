@@ -1,4 +1,4 @@
-package com.java.advanced4;
+package com.java.advancedmiting.advanced4;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,8 +1,6 @@
-package com.java.advanced2;
+package com.java.advancedmiting.advanced2;
 
 import java.util.ArrayList;
-import java.util.Collection;
-import java.util.Collections;
 import java.util.List;
 
 public class Main {

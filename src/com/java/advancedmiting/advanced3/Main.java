@@ -1,4 +1,4 @@
-package com.java.advanced3;
+package com.java.advancedmiting.advanced3;
 
 import java.util.*;
 import java.util.function.Consumer;

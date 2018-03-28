@@ -1,4 +1,4 @@
-package com.java.advanced6;
+package com.java.advancedmiting.advanced6;
 
 import static java.lang.Math.*;
 

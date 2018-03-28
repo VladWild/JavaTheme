@@ -1,4 +1,4 @@
-package com.java.advanced;
+package com.java.advancedmiting.advanced;
 
 import java.util.*;
 

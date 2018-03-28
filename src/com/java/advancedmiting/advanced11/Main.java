@@ -1,7 +1,6 @@
-package com.java.advanced11;
+package com.java.advancedmiting.advanced11;
 
 import java.util.*;
-import java.util.concurrent.ConcurrentHashMap;
 
 public class Main {
     static final int COUNT = 10000;

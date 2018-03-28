@@ -1,10 +1,7 @@
-package com.java.advanced3;
+package com.java.advancedmiting.advanced3;
 
 import java.util.ArrayList;
-import java.util.Comparator;
 import java.util.List;
-
-import static java.lang.Math.sqrt;
 
 public class Main2 {
     public static void main(String[] args) {

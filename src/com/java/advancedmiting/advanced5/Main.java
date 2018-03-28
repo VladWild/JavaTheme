@@ -1,4 +1,4 @@
-package com.java.advanced5;
+package com.java.advancedmiting.advanced5;
 
 public class Main {
     public static void main(String[] args) {

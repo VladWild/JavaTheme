@@ -1,4 +1,4 @@
-package com.java.advanced11;
+package com.java.advancedmiting.advanced11;
 
 import java.util.Iterator;
 import java.util.List;

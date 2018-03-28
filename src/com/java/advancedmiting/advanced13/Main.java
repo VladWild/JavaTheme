@@ -1,4 +1,4 @@
-package com.java.advanced13;
+package com.java.advancedmiting.advanced13;
 
 public class Main {
     static ThreadLocal<String> threadLocal = new ThreadLocal<>();
