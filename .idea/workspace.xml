@@ -2,11 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23955672-c048-4524-9315-eb3b5db224d8" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/java/constructor/Main.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yet_spring_com_yet_spring_core_unknown.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/springframework/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/springframework/springframework.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/springframework/src/main/java/loggers/ConsoleLogger.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/springframework/src/main/java/loggers/Logger.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/springframework/src/main/java/other/Client.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/springframework/src/main/java/runner/App.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/java/framework/Main.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/java/framework/annotationInject/Main.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/java/streams/Main.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/java/superwarious/Main.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting3/advanced3_1/ResourceA.class" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting3/advanced3_1/ResourceA.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/initialisation_object/B.jad" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/initialisation_object/B.jad" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/initialisation_object/B.jad" afterPath="$PROJECT_DIR$/src/com/java/initialisation_object/B.jad" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/springframework/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,30 +31,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/java/advancedmiting3/advanced3_1/Main.java">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/java/framework/annotationInject/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="33" column="5" lean-forward="false" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
-              <folding />
+            <state relative-caret-position="346">
+              <caret line="21" column="31" lean-forward="false" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/java/constructor/Main.java">
+      <file leaf-file-name="Field.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/reflect/Field.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#162#163#0" expanded="true" />
-                <element signature="e#210#211#0" expanded="true" />
-                <element signature="e#339#340#0" expanded="true" />
-                <element signature="e#390#391#0" expanded="true" />
-                <element signature="e#540#541#0" expanded="true" />
-                <element signature="e#614#615#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="10931">
+              <caret line="693" column="44" lean-forward="false" selection-start-line="693" selection-start-column="44" selection-end-line="693" selection-end-column="44" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -57,7 +66,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>join()</find>
       <find>isDae</find>
       <find>CAS</find>
       <find>setDaemo</find>
@@ -87,6 +95,7 @@
       <find>Slee</find>
       <find>run()</find>
       <find>sleep(</find>
+      <find>toStr</find>
     </findStrings>
     <dirStrings>
       <dir>D:\Projects\JavaTheme\src\com\java</dir>
@@ -103,21 +112,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/java/threads/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/java/get_inner_classes/ExampleClass.java" />
-        <option value="$PROJECT_DIR$/src/com/java/get_inner_classes/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/java/advanced/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/java/advanced2/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/java/advanced3/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/java/lambda/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/java/lambda_constructors/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/java/advanced3/Main2.java" />
-        <option value="$PROJECT_DIR$/src/com/java/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/java/advanced4/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/java/advanced5/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/java/advanced6/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/java/advanced7/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/java/advanced8/Main.java" />
         <option value="$PROJECT_DIR$/src/com/java/advanced9/Main.java" />
         <option value="$PROJECT_DIR$/src/com/java/advanced10/Main.java" />
         <option value="$PROJECT_DIR$/src/com/java/advanced11/ewcewcewc.java" />
@@ -154,6 +148,21 @@
         <option value="$PROJECT_DIR$/src/com/java/advancedmiting3/advanced3_1/Main.java" />
         <option value="$PROJECT_DIR$/src/com/java/constructor/MyClass.java" />
         <option value="$PROJECT_DIR$/src/com/java/constructor/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/java/superwarious/Main.java" />
+        <option value="$PROJECT_DIR$/springframework/pom.xml" />
+        <option value="$PROJECT_DIR$/springframework/src/main/java/Logger.java" />
+        <option value="$PROJECT_DIR$/springframework/src/main/java/EventLogger.java" />
+        <option value="$PROJECT_DIR$/springframework/src/main/java/ConsoleLogger.java" />
+        <option value="$PROJECT_DIR$/springframework/src/main/java/Main.java" />
+        <option value="$PROJECT_DIR$/springframework/src/main/java/App.java" />
+        <option value="$PROJECT_DIR$/springframework/src/main/java/loggers/Logger.java" />
+        <option value="$PROJECT_DIR$/springframework/src/main/java/other/Client.java" />
+        <option value="$PROJECT_DIR$/springframework/src/main/resources/spring.xml" />
+        <option value="$PROJECT_DIR$/springframework/src/main/java/runner/App.java" />
+        <option value="$PROJECT_DIR$/src/com/java/framework/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/java/lambda/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/java/streams/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/java/framework/annotationInject/Main.java" />
       </list>
     </option>
   </component>
@@ -163,10 +172,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="12" />
-    <option name="y" value="10" />
-    <option name="width" value="1144" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="169" />
+    <option name="y" value="20" />
+    <option name="width" value="1104" />
     <option name="height" value="1084" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -185,6 +194,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -208,15 +221,29 @@
               <item name="JavaTheme" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="constructor" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaTheme" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaTheme" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="constructor" type="462c0819:PsiDirectoryNode" />
+              <item name="lambda" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaTheme" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaTheme" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lambda" type="462c0819:PsiDirectoryNode" />
               <item name="Main.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="JavaTheme" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaTheme" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="superwarious" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaTheme" type="b2602c69:ProjectViewProjectNode" />
@@ -226,10 +253,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -239,20 +262,23 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Object.java" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="Groovy" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Projects\JavaTheme\src\com\java\aaaaaabbbbbbbbbbdddddddddddeeeeeeee" />
-      <recent name="D:\Projects\JavaTheme\src" />
-      <recent name="D:\Projects\JavaTheme\src\com\java" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\JavaTheme\springframework" />
+      <recent name="D:\Projects\JavaTheme" />
       <recent name="D:\Projects\JavaTheme\src\com\java\aaaaaabbbbbbbbbbdddddddddddeeeeeeee" />
       <recent name="D:\Projects\JavaTheme\src\com\java\initialisation_object" />
       <recent name="D:\Projects\JavaTheme\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\JavaTheme" />
+      <recent name="D:\Projects\JavaTheme\src\com\java\aaaaaabbbbbbbbbbdddddddddddeeeeeeee" />
+      <recent name="D:\Projects\JavaTheme\src" />
+      <recent name="D:\Projects\JavaTheme\src\com\java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -267,32 +293,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
+  <component name="RunManager" selected="Application.Main">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
-    </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.java.advancedmiting2.advanced2_10.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.java.advancedmiting2.advanced2_10.Main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaTheme" />
-      <envs />
     </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
@@ -332,14 +339,14 @@
       <module name="JavaTheme" />
       <envs />
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.java.advancedmiting2.advanced2_9.*" />
+          <option name="PATTERN" value="com.java.superwarious.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.java.advancedmiting2.advanced2_9.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.java.superwarious.Main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -351,14 +358,33 @@
       <module name="JavaTheme" />
       <envs />
     </configuration>
-    <configuration name="MainWait" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.java.advancedmiting2.advanced2_8.*" />
+          <option name="PATTERN" value="com.java.framework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.java.advancedmiting2.advanced2_8.MainWait" />
+      <option name="MAIN_CLASS_NAME" value="com.java.framework.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaTheme" />
+      <envs />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.java.framework.annotationInject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.java.framework.annotationInject.Main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -445,19 +471,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="1" class="java.lang.String" itemvalue="Application.MainWait" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Main (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Main (2)" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Main (3)" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Main (2)" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Main (3)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Main (4)" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Main (5)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Main (3)" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Main (2)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Main (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="4" class="java.lang.String" itemvalue="Application.MainWait" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Main (5)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Main (4)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Main (3)" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -517,44 +543,45 @@
       <workItem from="1523266647047" duration="4218000" />
       <workItem from="1523441461334" duration="114000" />
       <workItem from="1523443058723" duration="5668000" />
-      <workItem from="1523959292593" duration="3504000" />
+      <workItem from="1523959292593" duration="3558000" />
+      <workItem from="1524134962851" duration="9249000" />
+      <workItem from="1524648959582" duration="4000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="347426000" />
+    <option name="totallyTimeSpent" value="356733000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="169" y="20" width="1104" height="1084" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25554383" sideWeight="0.4875" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25554383" sideWeight="0.5125" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2451282" sideWeight="0.46614584" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25237593" sideWeight="0.46614584" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15208334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26838234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2851109" sideWeight="0.48833033" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25554383" sideWeight="0.4875" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32875264" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32820514" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -573,7 +600,7 @@
           <option name="timeStamp" value="40" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="63" />
+      <option name="time" value="65" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -587,196 +614,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/StringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="89" column="0" lean-forward="false" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/ThreadGroup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="573">
-          <caret line="907" column="0" lean-forward="false" selection-start-line="907" selection-start-column="0" selection-end-line="907" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/ClassLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="356" column="0" lean-forward="false" selection-start-line="356" selection-start-column="0" selection-end-line="356" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="1534" column="0" lean-forward="false" selection-start-line="1534" selection-start-column="0" selection-end-line="1534" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/javax/management/monitor/Monitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1582">
-          <caret line="68" column="28" lean-forward="true" selection-start-line="68" selection-start-column="28" selection-end-line="68" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/advancedmiting2/advanced2_5/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="34" column="21" lean-forward="true" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/labirint_struktyra/SearchDeep.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/java/labirint_struktyra/Client.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/java/labirint_struktyra/Copy.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/java/labirint_struktyra/Link.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/java/labirint_struktyra/Chest.java" />
-    <entry file="uml://JAVA/com.java.aaaaaabbbbbbbbbbdddddddddddeeeeeeee.Algorithm">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.java.aaaaaabbbbbbbbbbdddddddddddeeeeeeee.Algorithm</OriginalElement>
-          <nodes>
-            <node x="0.0" y="791.0">com.java.aaaaaabbbbbbbbbbdddddddddddeeeeeeee.Recursion</node>
-            <node x="697.5" y="0.0">java.lang.Deprecated</node>
-            <node x="319.5" y="667.0">com.java.aaaaaabbbbbbbbbbdddddddddddeeeeeeee.Algorithm</node>
-            <node x="160.0" y="0.0">com.java.aaaaaabbbbbbbbbbdddddddddddeeeeeeee.SearchDeep</node>
-            <node x="611.0" y="80.0">com.java.aaaaaabbbbbbbbbbdddddddddddeeeeeeee.Client</node>
-            <node x="213.0" y="813.0">com.java.aaaaaabbbbbbbbbbdddddddddddeeeeeeee.StackUse</node>
-            <node x="160.0" y="248.0">com.java.aaaaaabbbbbbbbbbdddddddddddeeeeeeee.Labyrinth</node>
-            <node x="0.0" y="548.0">com.java.aaaaaabbbbbbbbbbdddddddddddeeeeeeee.Chest</node>
-            <node x="399.0" y="548.0">com.java.aaaaaabbbbbbbbbbdddddddddddeeeeeeee.All</node>
-            <node x="187.0" y="526.0">com.java.aaaaaabbbbbbbbbbdddddddddddeeeeeeee.Keys</node>
-            <node x="639.0" y="813.0">Link</node>
-            <node x="187.0" y="146.0">com.java.aaaaaabbbbbbbbbbdddddddddddeeeeeeee.SearchWidth</node>
-            <node x="426.0" y="813.0">com.java.aaaaaabbbbbbbbbbdddddddddddeeeeeeee.Copy</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="Link" target="com.java.aaaaaabbbbbbbbbbdddddddddddeeeeeeee.Algorithm">
-              <point x="0.0" y="-37.0" />
-              <point x="735.5" y="761.0" />
-              <point x="488.375" y="761.0" />
-              <point x="72.375" y="37.0" />
-            </edge>
-            <edge source="com.java.aaaaaabbbbbbbbbbdddddddddddeeeeeeee.SearchWidth" target="com.java.aaaaaabbbbbbbbbbdddddddddddeeeeeeee.SearchDeep">
-              <point x="0.0" y="-26.0" />
-              <point x="0.0" y="48.0" />
-            </edge>
-            <edge source="com.java.aaaaaabbbbbbbbbbdddddddddddeeeeeeee.StackUse" target="com.java.aaaaaabbbbbbbbbbdddddddddddeeeeeeee.Algorithm">
-              <point x="0.0" y="-37.0" />
-              <point x="309.5" y="771.0" />
-              <point x="391.875" y="771.0" />
-              <point x="-24.125" y="37.0" />
-            </edge>
-            <edge source="com.java.aaaaaabbbbbbbbbbdddddddddddeeeeeeee.Recursion" target="com.java.aaaaaabbbbbbbbbbdddddddddddeeeeeeee.Algorithm">
-              <point x="0.0" y="-59.0" />
-              <point x="96.5" y="761.0" />
-              <point x="343.625" y="761.0" />
-              <point x="-72.375" y="37.0" />
-            </edge>
-            <edge source="com.java.aaaaaabbbbbbbbbbdddddddddddeeeeeeee.Labyrinth" target="com.java.aaaaaabbbbbbbbbbdddddddddddeeeeeeee.SearchWidth">
-              <point x="0.0" y="-114.0" />
-              <point x="0.0" y="26.0" />
-            </edge>
-            <edge source="com.java.aaaaaabbbbbbbbbbdddddddddddeeeeeeee.Copy" target="com.java.aaaaaabbbbbbbbbbdddddddddddeeeeeeee.Algorithm">
-              <point x="0.0" y="-37.0" />
-              <point x="522.5" y="771.0" />
-              <point x="440.125" y="771.0" />
-              <point x="24.125" y="37.0" />
-            </edge>
-            <edge source="com.java.aaaaaabbbbbbbbbbdddddddddddeeeeeeee.Keys" target="com.java.aaaaaabbbbbbbbbbdddddddddddeeeeeeee.Labyrinth">
-              <point x="0.0" y="-48.0" />
-              <point x="0.0" y="114.0" />
-            </edge>
-            <edge source="com.java.aaaaaabbbbbbbbbbdddddddddddeeeeeeee.Chest" target="com.java.aaaaaabbbbbbbbbbdddddddddddeeeeeeee.Labyrinth">
-              <point x="0.0" y="-26.0" />
-              <point x="83.5" y="501.0" />
-              <point x="201.0" y="501.0" />
-              <point x="-82.0" y="114.0" />
-            </edge>
-            <edge source="com.java.aaaaaabbbbbbbbbbdddddddddddeeeeeeee.Client" target="java.lang.Deprecated">
-              <point x="0.0" y="-136.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="com.java.aaaaaabbbbbbbbbbdddddddddddeeeeeeee.All" target="com.java.aaaaaabbbbbbbbbbdddddddddddeeeeeeee.Labyrinth">
-              <point x="0.0" y="-26.0" />
-              <point x="482.5" y="501.0" />
-              <point x="365.0" y="501.0" />
-              <point x="82.0" y="114.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="620.0" y="426.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Methods</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/advancedmiting2/advanced2_6/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/labirint_struktyra/Labyrinth.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/java/labirint_struktyra/Keys.java" />
-    <entry file="uml://JAVA/com.java.advancedmiting2.advanced2_7.Main">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.java.advancedmiting2.advanced2_7.Main</OriginalElement>
-          <nodes>
-            <node x="" y="">com.java.advancedmiting2.advanced2_7.Main</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="39.0" y="15.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/java.lang.Object">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>java.lang.Object</OriginalElement>
-          <nodes>
-            <node x="0.0" y="0.0">java.lang.Object</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="-511.0" y="46.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Inner Classes</Category>
-            <Category>Constructors</Category>
-            <Category>Properties</Category>
-            <Category>Methods</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="463" column="62" lean-forward="false" selection-start-line="463" selection-start-column="61" selection-end-line="463" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/java/advancedmiting2/advanced2_8/MainWait.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
@@ -987,34 +824,128 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/constructor/MyClass.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/java/constructor/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="33" lean-forward="true" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/java/advancedmiting3/advanced3_1/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
           <caret line="33" column="5" lean-forward="false" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springframework/src/main/resources/spring.xml" />
+    <entry file="file://$PROJECT_DIR$/spring-basics-course-project-lesson2/src/main/java/com/yet/spring/core/beans/Client.java" />
+    <entry file="file://$PROJECT_DIR$/spring-basics-course-project-lesson2/src/main/resources/spring.xml" />
+    <entry file="file://$PROJECT_DIR$/spring-basics-course-project-lesson2/src/main/java/com/yet/spring/core/App.java" />
+    <entry file="file://$PROJECT_DIR$/springframework/src/main/java/runner/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springframework/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="35" lean-forward="false" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springframework/src/main/java/loggers/Logger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springframework/src/main/java/other/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="18" lean-forward="false" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springframework/src/main/java/loggers/ConsoleLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/superwarious/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/constructor/MyClass.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/regex/Pattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1414">
+          <caret line="932" column="19" lean-forward="false" selection-start-line="932" selection-start-column="19" selection-end-line="932" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/function/Predicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-493">
+          <caret line="48" column="12" lean-forward="false" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/ClassesAndObjectsAndEnum/MainClassesAndObjects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/lambda/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/framework/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/streams/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/reflect/Field.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10931">
+          <caret line="693" column="44" lean-forward="false" selection-start-line="693" selection-start-column="44" selection-end-line="693" selection-end-column="44" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/constructor/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/java/framework/annotationInject/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        <state relative-caret-position="346">
+          <caret line="21" column="31" lean-forward="false" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#162#163#0" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#339#340#0" expanded="true" />
-            <element signature="e#390#391#0" expanded="true" />
-            <element signature="e#540#541#0" expanded="true" />
-            <element signature="e#614#615#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1036,7 +967,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited>Spring</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1071,12 +1002,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>JavaTheme</last-edited>
+          <last-edited>Spring|springframework</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -1084,6 +1014,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: com.yet.spring:com.yet.spring.core:unknown</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

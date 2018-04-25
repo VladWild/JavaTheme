@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.yet.spring:com.yet.spring.core:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/yet/spring/com.yet.spring.core/unknown/com.yet.spring.core-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/yet/spring/com.yet.spring.core/unknown/com.yet.spring.core-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/yet/spring/com.yet.spring.core/unknown/com.yet.spring.core-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
