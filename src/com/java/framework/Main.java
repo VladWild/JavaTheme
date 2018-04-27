@@ -7,6 +7,7 @@ public class Main {
     private static final String FIELD_ROW_REGEXP = "\\{(\\|X\\|| - )+\\}";
     private static final String OCCUPIED_CELL_REGEXP = "\\|X\\|";
     private static final String EMPTY_CELL_REGEXP = " - ";
+    static final String CONFIG_BEANS_DELIMITER = ",\\s?";
 
     final String regex = String.format("%s%s%s", OCCUPIED_CELL_REGEXP, "|",
             EMPTY_CELL_REGEXP);
