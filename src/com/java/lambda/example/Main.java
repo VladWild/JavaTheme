@@ -1,8 +1,4 @@
-package com.java.lambda;
-
-import java.util.ArrayList;
-import java.util.List;
-import java.util.function.Consumer;
+package com.java.lambda.example;
 
 public class Main {
     public static void main(String[] args) {
