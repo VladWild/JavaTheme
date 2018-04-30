@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaTheme.iml" filepath="$PROJECT_DIR$/JavaTheme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springframework/springframework.iml" filepath="$PROJECT_DIR$/springframework/springframework.iml" />
     </modules>
   </component>
 </project>
