@@ -24,7 +24,7 @@ public class NeskolkoListov {
 
         List<String> collect =
                 list.stream()
-                        .map(x -> x.getBook())      //Stream<Set<String>> 
+                        .map(x -> x.getBook())      //Stream<Set<String>>
                         .flatMap(x -> x.stream())   //Stream<String>
                         .distinct()
                         .collect(Collectors.toList());
