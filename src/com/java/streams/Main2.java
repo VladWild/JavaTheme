@@ -26,6 +26,9 @@ public class Main2 {
             System.out.println(elem);
         }
 
+        int[] array2 = new int[]{1, 2, 3, 4, 5, 6, 7, 8};
+        Integer[] integers = Arrays.stream(array2).boxed().toArray(Integer[]::new);
+        Arrays.stream(integers).forEach(System.out::println);
     }
 }
 
