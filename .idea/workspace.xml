@@ -2,7 +2,123 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f8757d9-1fb4-4280-bd65-d83109d6f517" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/java/streams/NeskolkoListov.java" afterPath="$PROJECT_DIR$/src/com/java/streams/NeskolkoListov.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/java/distancionka/Main.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/java/distancionka/Main2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/java/distancionka/Main4.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/ClassesAndObjectsAndEnum/A.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/ClassesAndObjectsAndEnum/B.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/ClassesAndObjectsAndEnum/D$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/ClassesAndObjectsAndEnum/D$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/ClassesAndObjectsAndEnum/D.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/ClassesAndObjectsAndEnum/K.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/ClassesAndObjectsAndEnum/MainClassesAndObjects.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/InputOutput/MainInputOutput.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/InputOutput/Numbers.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/TypeOfDataAndOperations/A.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/TypeOfDataAndOperations/MainTypeOfDataAndOperations.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/class_object/A.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/class_object/B.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/class_object/Main.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/collections/A.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/collections/B$K.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/collections/B.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/collections/Collections.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/collections/MainCollections.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/defuilt_static_metods_interface/defuilt_metods/A.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/defuilt_static_metods_interface/defuilt_metods/B.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/defuilt_static_metods_interface/defuilt_metods/C.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/defuilt_static_metods_interface/defuilt_metods/MainDefailMetodsInInterface.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/defuilt_static_metods_interface/static_metods/A.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/defuilt_static_metods_interface/static_metods/B.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/defuilt_static_metods_interface/static_metods/MainStaticMetodsInInterface.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/exeptions/Coin.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/exeptions/CoinLogicException.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/exeptions/CoinSmall.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/exeptions/MainExeptions.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/get_inner_classes/A.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/get_inner_classes/ExampleClass$InnerClass1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/get_inner_classes/ExampleClass$InnerClass2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/get_inner_classes/ExampleClass$InnerClass3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/get_inner_classes/ExampleClass$InnerClass4.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/get_inner_classes/ExampleClass.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/get_inner_classes/Main.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/hiding_static_metod/Animal.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/hiding_static_metod/Cat.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/hiding_static_metod/MainYHadingStaticMetod.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/initialisation_object/B.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/initialisation_object/D.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/initialisation_object/Main$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/initialisation_object/Main.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/initialization_examplies/InnerClassTest0$Inner1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/initialization_examplies/InnerClassTest0.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/initialization_examplies/MainInitialisation.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/initialization_examplies/Test$B.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/initialization_examplies/Test.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/initializationoblect/Child.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/initializationoblect/MainInitializationObject.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/initializationoblect/Parrent.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/inner_classes/A.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/inner_classes/Anonymous_Classes$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/inner_classes/Anonymous_Classes.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/inner_classes/B$Ship.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/inner_classes/B.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/inner_classes/EngineBig.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/inner_classes/Inner_Classes$1A.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/inner_classes/Inner_Classes.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/inner_classes/LifeBoatBig.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/inner_classes/Motor.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/inner_classes/Nested_Classes.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/inner_classes/P.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/inner_classes/Ship$Engine.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/inner_classes/Ship.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/inner_classes/ShipBig$LifeBoat.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/inner_classes/ShipBig.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/interfaces_and_anotation/A.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/interfaces_and_anotation/B.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/interfaces_and_anotation/C.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/interfaces_and_anotation/MainAnotation.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/interfaces_and_anotation/MainInterfaces.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/interfaces_and_anotation/Raiting.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/interfaces_and_anotation/Range.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/interfaces_and_anotation/Service.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/lambda_constructors/Main.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/lambda_constructors/Person.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/lambda_constructors/PersonFactory.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/logic_blocks/Department.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/logic_blocks/Main.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/logicheskie_bloki/A.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/logicheskie_bloki/Main.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/overate_metod/A.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/overate_metod/B.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/overate_metod/Cat.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/overate_metod/Kitten.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/overate_metod/Main.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/overate_static/not_static/A.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/overate_static/not_static/B.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/overate_static/not_static/Main.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/overate_static/static_/A.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/overate_static/static_/B.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/overate_static/static_/MainStatic.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/parametr_classes/Exam.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/parametr_classes/Main.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/peredacha_po_ssylke_i_znacheniiy/Main.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/peredacha_po_ssylke_i_znacheniiy/MyInteger.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/recursion/MainRecursion.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/reflection/MainReflection.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/reflection/MyClass.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/string_enjoy_strok/Main.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/stroky/Main.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/super_this/A.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/super_this/B.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/super_this/MainSuperThis.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/threads/A.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/threads/B.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/threads/JoinRunner.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/threads/JoinThread.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/threads/Main.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/to_catch_error_exeption/A.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/to_catch_error_exeption/Main.class" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/springframework/target/" />
@@ -14,45 +130,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/java/framework/regular/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="38" lean-forward="false" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/java/streams/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="49" column="62" lean-forward="false" selection-start-line="49" selection-start-column="52" selection-end-line="49" selection-end-column="62" />
+            <state relative-caret-position="594">
+              <caret line="61" column="16" lean-forward="false" selection-start-line="61" selection-start-column="16" selection-end-line="61" selection-end-column="83" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NeskolkoListov.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/java/streams/NeskolkoListov.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="26" column="73" lean-forward="false" selection-start-line="26" selection-start-column="73" selection-end-line="26" selection-end-column="73" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1341#1342#0" expanded="true" />
-                <element signature="e#1368#1369#0" expanded="true" />
-                <element signature="e#1408#1409#0" expanded="true" />
-                <element signature="e#1440#1441#0" expanded="true" />
-                <element signature="e#1476#1477#0" expanded="true" />
-                <element signature="e#1503#1504#0" expanded="true" />
-                <element signature="e#1548#1549#0" expanded="true" />
-                <element signature="e#1580#1581#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -65,6 +149,11 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>red</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -81,6 +170,12 @@
         <option value="$PROJECT_DIR$/src/com/java/size_arrays/Main.java" />
         <option value="$PROJECT_DIR$/src/com/java/iterator/Main.java" />
         <option value="$PROJECT_DIR$/src/com/java/streams/NeskolkoListov.java" />
+        <option value="$PROJECT_DIR$/src/com/java/kursovaya/All.java" />
+        <option value="$PROJECT_DIR$/src/com/java/kursovaya/Chest.java" />
+        <option value="$PROJECT_DIR$/src/com/java/kursovaya/FactoryTasks.java" />
+        <option value="$PROJECT_DIR$/src/com/java/distancionka/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/java/distancionka/Main2.java" />
+        <option value="$PROJECT_DIR$/src/com/java/distancionka/Main4.java" />
       </list>
     </option>
   </component>
@@ -90,11 +185,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="98" />
+    <option name="width" value="1055" />
+    <option name="height" value="788" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -111,7 +206,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -135,53 +230,6 @@
               <item name="JavaTheme" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="framework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaTheme" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTheme" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="framework" type="462c0819:PsiDirectoryNode" />
-              <item name="annotationInject" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaTheme" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTheme" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="framework" type="462c0819:PsiDirectoryNode" />
-              <item name="count_dirts_in_numbrer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaTheme" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTheme" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="framework" type="462c0819:PsiDirectoryNode" />
-              <item name="delimiter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaTheme" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTheme" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="framework" type="462c0819:PsiDirectoryNode" />
-              <item name="moskito" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaTheme" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTheme" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="framework" type="462c0819:PsiDirectoryNode" />
-              <item name="regular" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaTheme" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTheme" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="streams" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -196,18 +244,23 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scratches" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../EPSMock" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\Documents\IdeaProjects\JavaTheme\src\com\java\kursovaya" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -221,32 +274,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NeskolkoListov">
+  <component name="RunManager" selected="Application.Main4">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
-    </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.java.size_arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.java.size_arrays.Main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaTheme" />
-      <envs />
     </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
@@ -267,14 +301,52 @@
       <module name="JavaTheme" />
       <envs />
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.java.framework.regular.*" />
+          <option name="PATTERN" value="com.java.distancionka.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.java.framework.regular.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.java.distancionka.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaTheme" />
+      <envs />
+    </configuration>
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.java.distancionka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.java.distancionka.Main2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaTheme" />
+      <envs />
+    </configuration>
+    <configuration name="Main4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.java.distancionka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.java.distancionka.Main4" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -379,18 +451,20 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Main (1)" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Main (2)" />
-      <item index="3" class="java.lang.String" itemvalue="Application.NeskolkoListov" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.Main (2)" />
+      <item index="1" class="java.lang.String" itemvalue="Application.NeskolkoListov" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Main (3)" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Main2" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Main4" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Application.NeskolkoListov" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Main (2)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Main (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Main" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main4" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Main2" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Main (3)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.NeskolkoListov" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -408,30 +482,34 @@
       <option name="presentableId" value="Default" />
       <updated>1525079695232</updated>
       <workItem from="1525079696575" duration="44000" />
-      <workItem from="1525079747129" duration="16413000" />
+      <workItem from="1525079747129" duration="19335000" />
+      <workItem from="1526801537684" duration="182000" />
+      <workItem from="1528317273721" duration="7394000" />
+      <workItem from="1528659561155" duration="3278000" />
+      <workItem from="1528827063087" duration="838000" />
+      <workItem from="1529855167490" duration="20000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16457000" />
+    <option name="totallyTimeSpent" value="31091000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="65" y="98" width="1055" height="788" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2488189" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3282002" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -443,6 +521,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -455,16 +534,106 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="5" />
+      <option name="time" value="6" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/java/distancionka/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="23" column="22" lean-forward="false" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/distancionka/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="28" column="32" lean-forward="false" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/streams/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="61" column="16" lean-forward="false" selection-start-line="61" selection-start-column="16" selection-end-line="61" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/distancionka/Main4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="24" column="49" lean-forward="false" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/distancionka/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="23" column="22" lean-forward="false" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/distancionka/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="28" column="32" lean-forward="false" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/streams/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="61" column="16" lean-forward="false" selection-start-line="61" selection-start-column="16" selection-end-line="61" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/distancionka/Main4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="49" lean-forward="true" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/distancionka/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/streams/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="61" column="16" lean-forward="true" selection-start-line="61" selection-start-column="16" selection-end-line="61" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/distancionka/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="32" lean-forward="false" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/framework/regular/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/java/streams/NeskolkoListov.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/java/streams/Main.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/io/PrintStream.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="251">
           <caret line="810" column="7" lean-forward="false" selection-start-line="810" selection-start-column="4" selection-end-line="810" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -472,7 +641,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="302">
           <caret line="619" column="55" lean-forward="true" selection-start-line="619" selection-start-column="55" selection-end-line="619" selection-end-column="55" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -480,128 +648,65 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="387">
           <caret line="1026" column="26" lean-forward="false" selection-start-line="1026" selection-start-column="26" selection-end-line="1026" selection-end-column="26" />
-          <folding>
-            <element signature="e#48487#48488#0" expanded="false" />
-            <element signature="e#48531#48532#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/framework/count_dirts_in_numbrer/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/framework/delimiter/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/framework/moskito/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/framework/annotationInject/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/framework/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-85">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/framework/count_dirts_in_numbrer/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/java/framework/delimiter/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/java/framework/moskito/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/java/framework/annotationInject/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/java/framework/Main.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="251">
           <caret line="410" column="17" lean-forward="true" selection-start-line="410" selection-start-column="17" selection-end-line="410" selection-end-column="17" />
-          <folding>
-            <element signature="e#14938#14968#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/size_arrays/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="20" column="42" lean-forward="false" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#401#409#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/framework/regular/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="38" lean-forward="false" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/iterator/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="22" column="28" lean-forward="false" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/size_arrays/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/java/iterator/Main.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/stream/Stream.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-21">
           <caret line="989" column="7" lean-forward="true" selection-start-line="989" selection-start-column="7" selection-end-line="989" selection-end-column="7" />
-          <folding>
-            <element signature="e#45701#45702#0" expanded="false" />
-            <element signature="e#45745#45746#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/framework/regular/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/java/streams/NeskolkoListov.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/java/kursovaya/All.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/java/kursovaya/Chest.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/java/kursovaya/FactoryTasks.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/java/kursovaya/Keys.java" />
     <entry file="file://$PROJECT_DIR$/src/com/java/streams/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="49" column="62" lean-forward="false" selection-start-line="49" selection-start-column="52" selection-end-line="49" selection-end-column="62" />
+        <state relative-caret-position="594">
+          <caret line="61" column="16" lean-forward="false" selection-start-line="61" selection-start-column="16" selection-end-line="61" selection-end-column="83" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/streams/NeskolkoListov.java">
+    <entry file="file://$PROJECT_DIR$/src/com/java/distancionka/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="26" column="73" lean-forward="false" selection-start-line="26" selection-start-column="73" selection-end-line="26" selection-end-column="73" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1341#1342#0" expanded="true" />
-            <element signature="e#1368#1369#0" expanded="true" />
-            <element signature="e#1408#1409#0" expanded="true" />
-            <element signature="e#1440#1441#0" expanded="true" />
-            <element signature="e#1476#1477#0" expanded="true" />
-            <element signature="e#1503#1504#0" expanded="true" />
-            <element signature="e#1548#1549#0" expanded="true" />
-            <element signature="e#1580#1581#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="357">
+          <caret line="23" column="22" lean-forward="false" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/distancionka/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="28" column="32" lean-forward="false" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/distancionka/Main4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="49" lean-forward="false" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
+          <folding />
         </state>
       </provider>
     </entry>
