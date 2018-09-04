@@ -1,7 +1,7 @@
 package com.java.synchronizedI;
 
 public class Main {
-    public static MyInt i = new MyInt();
+    public static Integer i = 0;
 
     public static void main(String[] args) throws InterruptedException {
         for (int i = 0; i < 1000; i++){
@@ -10,12 +10,12 @@ public class Main {
 
         Thread.sleep(1000);
 
-        System.out.println(i.getI());
+        System.out.println(i);
     }
 
     public static void method(){
         synchronized (i){
-            i.inc();
+            i++;
         }
     }
 }
