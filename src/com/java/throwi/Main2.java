@@ -31,3 +31,4 @@ public class Main2 {
 interface A{
     void k();
 }
+
