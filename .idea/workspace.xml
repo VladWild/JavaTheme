@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b5df5b4-6b83-41bd-b5a9-cc9d0aaac754" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/java/xml/test/java/persers/food.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/xml/test/java/example/students.dtd" afterPath="$PROJECT_DIR$/src/com/java/xml/test/java/schema/example/students.dtd" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/xml/test/java/example/students.xml" afterPath="$PROJECT_DIR$/src/com/java/xml/test/java/schema/example/students.xml" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/xml/test/java/example2/note.xml" afterPath="$PROJECT_DIR$/src/com/java/xml/test/java/schema/example2/note.xml" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/xml/test/java/example2/note.xsd" afterPath="$PROJECT_DIR$/src/com/java/xml/test/java/schema/example2/note.xsd" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/xml/test/java/testng.xml" afterPath="$PROJECT_DIR$/src/com/java/xml/test/java/schema/testng.xml" />
-    </list>
+    <list default="true" id="1b5df5b4-6b83-41bd-b5a9-cc9d0aaac754" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -53,9 +45,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="582" />
-    <option name="y" value="22" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="211" />
+    <option name="y" value="21" />
     <option name="width" value="1055" />
     <option name="height" value="788" />
   </component>
@@ -226,15 +218,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1536055536678</updated>
-      <workItem from="1536055537940" duration="1000000" />
+      <workItem from="1536055537940" duration="1030000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1000000" />
+    <option name="totallyTimeSpent" value="1030000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="582" y="22" width="1055" height="788" extended-state="0" />
+    <frame x="211" y="21" width="1055" height="788" extended-state="1" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
