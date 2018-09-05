@@ -1,0 +1,11 @@
+<xsd:schema
+        xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+        targetNamespace="http://example.com/"
+        xmlns:tns="http://example.com/">
+
+    <xsd:element name="aGlobalElement" type="tns:aGlobalType"/>
+
+    <xsd:simpleType name="aGlobalType">
+        <xsd:restriction base="xsd:string"/>
+    </xsd:simpleType>
+</xsd:schema>
