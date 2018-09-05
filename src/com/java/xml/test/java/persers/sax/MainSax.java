@@ -8,7 +8,7 @@ import org.xml.sax.helpers.XMLReaderFactory;
 import java.io.IOException;
 import java.util.List;
 
-public class Main {
+public class MainSax {
     public static void main(String[] args) throws SAXException, IOException {
         XMLReader reader = XMLReaderFactory.createXMLReader();
         MenuSaxHandler handler = new MenuSaxHandler();
@@ -18,3 +18,4 @@ public class Main {
         foods.forEach(System.out::println);
     }
 }
+

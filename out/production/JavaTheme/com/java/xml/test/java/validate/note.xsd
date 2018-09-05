@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
-<xs:schema xmlns="https://www.w3schools.com"
-           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
            targetNamespace="https://www.w3schools.com"
+           xmlns="https://www.w3schools.com"
            elementFormDefault="qualified">
 
     <xs:element name="note">
@@ -16,3 +16,4 @@
     </xs:element>
 
 </xs:schema>
+
