@@ -1,9 +1,9 @@
-package com.java;
+package com.java.streams;
 
 import java.util.Arrays;
 import java.util.List;
 
-public class Main {
+public class MainStreams {
     public static void main(String[] args) {
         List<A> list1 = Arrays.asList(new B(), new C(), new C(), new B());
 

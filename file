@@ -1,0 +1,211 @@
+{
+  "id": 0,
+  "template": "Agent Visit Deposit",
+  "scenario": "Agent Visit Deposit",
+  "plannedStart": "2019-02-07T08:00",
+  "plannedEnd": "2019-02-07T10:00",
+  "status": "Планирование встречи",
+  "type": "ремонт горелых труб",
+  "subtype": "crt",
+  "description": "Наименование и короткое наименование",
+  "integrationId": "integrationid1221",
+  "opportunity": {
+    "id": "1221",
+    "integrationId": "integrationid1221_1",
+    "applicationCode": "Код заявки"
+  },
+  "priority": 0,
+  "audition": true,
+  "comment": "Комментарий",
+  "address": [
+    {
+      "postalCode": "127055",
+      "state": "Россия",
+      "city": "Москва",
+      "street": "Правды",
+      "houseNum": "52",
+      "korpus": null,
+      "stroenie": null,
+      "apartment": "45",
+      "subwayStationName": "САВЕЛОВСКАЯ",
+      "addressType": "Жительства",
+      "latitude": 55.786817,
+      "longitude": 37.588085
+    }
+  ],
+  "contacts": [
+    {
+      "siebelId": "5-4ZE3P1BN",
+      "integrationId": "20160723195252435PTL096270_1",
+      "birthDate": "1987-03-05",
+      "firstName": "СЕРГЕЙ",
+      "lastName": "СИМАНОВ",
+      "middleName": "АНДРЕЕВИЧ",
+      "jobTitle": "jobTitle",
+      "document": {
+        "date": "2019-02-06",
+        "info": "info",
+        "organization": "organization",
+        "placeOfBirth": "placeOfBirth",
+        "getiDDivisionCode": "getiDDivisionCode"
+      },
+      "phone": {
+        "mobile": "+79639985709",
+        "home": null,
+        "work": "+79639985709",
+        "other": null
+      },
+      "email": "sergey.simanov@icloud.com",
+      "customerValue": "customerValue",
+      "snils": "14640246139",
+      "hasEciaId": true,
+      "eciaId": "eciaId",
+      "organizationId": "organizationId"
+    }
+  ],
+  "infoPackets": [
+    {
+      "activityId": "5-QNXMNAJF",
+      "actionIntegrationId": "5-QNXMNAJF",
+      "documentType": "oher",
+      "documentId": "1211",
+      "status": "Завершена",
+      "statusUpdDate": "2019-02-06T10:00",
+      "contactId": "5-4ZE3P1BN",
+      "contactIntegrationId": "20160723195252435PTL096270_1",
+      "actualFlag": true,
+      "lastActionAgent": {
+        "loginUpdSbl": "NKEZHVATOVA",
+        "loginUpdAd": "n.kezhvatova",
+        "region": "Москва",
+        "lastName": "Наталья",
+        "firstName": "Кежватова",
+        "middleName": null,
+        "phone": "+79266484179"
+      },
+      "activityExisted": true,
+      "agent": true
+    }
+  ],
+  "organization": {
+    "integrationId": "5-QVXIGB77",
+    "id": "1211",
+    "longName": "ООО ЯНДЕКС",
+    "mainPhoneNumber": "88002500458",
+    "name": "ЯНДЕКС",
+    "ogrn": "ogrn",
+    "inn": "inn",
+    "vipCategory": true
+  },
+  "signings": [
+    {
+      "integrationId": "signingsID_5",
+      "scenario": "scenario",
+      "opportunity": {
+        "id": "1221",
+        "integrationId": "integrationid1221_1",
+        "applicationCode": "Код заявки"
+      },
+      "priority": 0,
+      "status": "status",
+      "subType": "subType",
+      "type": "type",
+      "comment": "comment",
+      "contractNumber": "contractNumber",
+      "product": {
+        "name": "name",
+        "type": "type"
+      },
+      "organization": {
+        "integrationId": "5-QVXIGB77",
+        "id": "1211",
+        "longName": "ООО ЯНДЕКС",
+        "mainPhoneNumber": "88002500458",
+        "name": "ЯНДЕКС",
+        "ogrn": "ogrn",
+        "inn": "inn",
+        "vipCategory": true
+      },
+      "assets": [
+        {
+          "number": "number",
+          "primary": true,
+          "cards": [
+            {
+              "ucid": "ucid",
+              "numMask": "numMask",
+              "mainFlag": true
+            }
+          ],
+          "assetId": "assetId"
+        }
+      ],
+      "contacts": [
+        {
+          "siebelId": "5-4ZE3P1BN",
+          "integrationId": "20160723195252435PTL096270_1",
+          "birthDate": "1987-03-05",
+          "firstName": "СЕРГЕЙ",
+          "lastName": "СИМАНОВ",
+          "middleName": "АНДРЕЕВИЧ",
+          "jobTitle": "jobTitle",
+          "document": {
+            "date": "2019-02-06",
+            "info": "info",
+            "organization": "organization",
+            "placeOfBirth": "placeOfBirth",
+            "getiDDivisionCode": "getiDDivisionCode"
+          },
+          "phone": {
+            "mobile": "+79639985709",
+            "home": null,
+            "work": "+79639985709",
+            "other": null
+          },
+          "email": "sergey.simanov@icloud.com",
+          "customerValue": "customerValue",
+          "snils": "14640246139",
+          "hasEciaId": true,
+          "eciaId": "eciaId",
+          "organizationId": "organizationId"
+        }
+      ],
+      "steps": [
+        {
+          "rejectReasons": [
+            {
+              "id": "1211",
+              "reason": "reason"
+            }
+          ],
+          "comment": "comment",
+          "integrationId": "integrationId1",
+          "multipaged": true,
+          "performed": true,
+          "required": true,
+          "order": 0,
+          "docType": "docType",
+          "name": "name",
+          "group": "group",
+	  "groupDocType": "groupDocType в steps. Проверка-проверочка!"
+        }
+      ],
+      "properties": [
+        {
+          "key": "key",
+          "value": "value",
+          "title": "title",
+          "group": "group"
+        }
+      ],
+      "questionnaires": [
+        {
+          "integrationId": 2,
+          "answerText": "answerText1",
+          "questionText": "questionText1",
+          "questionCode": "questionCode1"
+        }
+      ]
+    }
+  ]
+}
