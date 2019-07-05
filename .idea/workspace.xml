@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a79abb2d-5655-4790-aa61-5000d325c9e4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/java/booleanexample/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/datatimeformatter/MainReplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/datetime/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/directories/MainPaths.java" afterDir="false" />
+    <list default="true" id="a79abb2d-5655-4790-aa61-5000d325c9e4" name="Default" comment="last commit">
+      <change afterPath="$PROJECT_DIR$/src/com/java/executeservice/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/lisitolist/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file" beforeDir="false" afterPath="$PROJECT_DIR$/file" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/streams/MainStreams.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,27 +23,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/java/datetime/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/com/java/executeservice/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="97">
+              <caret line="10" column="39" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/time/LocalDateTime.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="372" column="31" selection-start-line="372" selection-start-column="18" selection-end-line="372" selection-end-column="31" />
-              <folding>
-                <element signature="e#6863#6864#0" expanded="true" />
-                <element signature="e#6916#6917#0" expanded="true" />
-                <element signature="e#21866#21867#0" expanded="true" />
-                <element signature="e#21939#21940#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -122,14 +103,16 @@
         <option value="$PROJECT_DIR$/src/com/java/datatimeformatter/MainReplication.java" />
         <option value="$PROJECT_DIR$/src/com/java/booleanexample/Main.java" />
         <option value="$PROJECT_DIR$/src/com/java/datetime/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/java/lisitolist/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/java/executeservice/Main.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2058" />
-    <option name="y" value="63" />
-    <option name="width" value="1038" />
-    <option name="height" value="858" />
+    <option name="x" value="2131" />
+    <option name="y" value="67" />
+    <option name="width" value="1143" />
+    <option name="height" value="916" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -156,6 +139,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JavaTheme" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaTheme" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="executeservice" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -166,7 +156,7 @@
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551442202578" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562313616502" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -193,7 +183,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration default="true" type="TestNG">
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <properties />
@@ -204,6 +194,20 @@
     </configuration>
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.executeservice.Main" />
+      <module name="JavaTheme" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.executeservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -264,20 +268,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainSortReference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.softreference.MainSortReference" />
-      <module name="JavaTheme" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java.softreference.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -300,19 +290,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MainSortReference" />
       <item itemvalue="Application.MainPaths" />
       <item itemvalue="Application.MainReplication" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Main (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.MainReplication" />
         <item itemvalue="Application.MainPaths" />
-        <item itemvalue="Application.MainSortReference" />
       </list>
     </recent_temporary>
   </component>
@@ -346,7 +336,9 @@
       <workItem from="1550577597327" duration="25000" />
       <workItem from="1550658517565" duration="795000" />
       <workItem from="1550748384166" duration="986000" />
-      <workItem from="1551428623234" duration="1840000" />
+      <workItem from="1551428623234" duration="1874000" />
+      <workItem from="1551769169299" duration="194000" />
+      <workItem from="1562312186360" duration="1322000" />
     </task>
     <task id="LOCAL-00001" summary="last commit">
       <created>1545291092914</created>
@@ -390,17 +382,24 @@
       <option name="project" value="LOCAL" />
       <updated>1549981169500</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="last commit">
+      <created>1551442431905</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1551442431905</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80666000" />
+    <option name="totallyTimeSpent" value="82216000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2058" y="63" width="1038" height="858" extended-state="0" />
+    <frame x="2207" y="60" width="1143" height="916" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23108384" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24561404" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -409,7 +408,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29793105" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24648787" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3986207" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -417,7 +416,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32936078" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32936078" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.2653899" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.26482213" />
       <window_info anchor="bottom" id="CheckStyle" order="11" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="12" />
       <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
@@ -486,20 +485,6 @@
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/java/formatter/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/text/SimpleDateFormat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="420" column="13" selection-start-line="420" selection-start-column="13" selection-end-line="420" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/text/DateFormat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -920,8 +905,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/java/datetime/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="459">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/lisitolist/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/executeservice/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="10" column="39" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
