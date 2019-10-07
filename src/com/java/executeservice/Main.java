@@ -1,16 +1,13 @@
 package com.java.executeservice;
 
-import java.util.concurrent.Callable;
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
-import java.util.concurrent.Future;
+import java.util.concurrent.*;
 
 public class Main {
 
     public static ExecutorService executorService;
     public static Future<String> future;
 
-    public static void main(String[] args) throws InterruptedException {
+    public static void main(String[] args) throws InterruptedException, ExecutionException {
         System.out.println("Старт потока " + Thread.currentThread().getName());
         executorService = Executors.newSingleThreadExecutor();
         future = executorService.submit(new MyCallable());
@@ -20,6 +17,7 @@ public class Main {
         System.out.println(future.isDone());
         Thread.sleep(2000);
         System.out.println(future.isDone());
+        System.out.println(future.get());
         System.out.println("Окончание потока " + Thread.currentThread().getName());
     }
 
