@@ -1,8 +1,5 @@
 package com.java.advancedmiting2.advanced2_5;
 
-import javax.management.monitor.Monitor;
-
-import static sun.misc.PostVMInitHook.run;
 
 public class Main {
     public static void main(String[] args) throws InterruptedException {
