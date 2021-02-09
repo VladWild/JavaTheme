@@ -11,6 +11,8 @@ public class Main {
 
         t1.start();
         t2.start();
+
+        System.out.println("dscdscdsc");
     }
 
     static class Thread1 implements Runnable {
