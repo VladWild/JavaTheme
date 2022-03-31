@@ -1,29 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a79abb2d-5655-4790-aa61-5000d325c9e4" name="Default" comment="last commit">
-      <change afterPath="$PROJECT_DIR$/src/com/java/aattestation/LambdaApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/aattestation/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/aattestation/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/aattestation/Main4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/aattestation/Main5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/aattestation/MainCountString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/aattestation/MainFactorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/aattestation/MainFastDeadLock2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/aattestation/MainFastDeadlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/aattestation/MainFastTwoSystems.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/aattestation/MainImmutableObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/aattestation/callablefeature/MainCallableFeature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/aattestation/collection/MainCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/aattestation/collection/MainHashMapTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/aattestation/collection/MainTreeSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/aattestation/heppensbefore/MainHeppensBefore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/aattestation/threads/deadlock/MainDeadLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/aattestation/threads/nodeadlock/MainNoDeadLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/aattestation/treadsdiffsystem/MainThreadDiffSystemFeatureCallable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/aattestation/treadsdiffsystem/MainThreadDiffSystemForkJoinPoll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/aattestation/waitnotify/MainWaitNotify.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/aattestation/yield/MainYield.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/Main645645.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/aattestationsenior/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/aattestationsenior/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/aattestationsenior/Main4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/aattestationsenior/Main5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/aattestationsenior/Main6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/iterator/Main12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/threads/inc/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/yandex/Main10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/yandex/Main11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/yandex/Praktikum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/ClassesAndObjectsAndEnum/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/ClassesAndObjectsAndEnum/A.class" afterDir="false" />
@@ -268,12 +276,12 @@
       <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/throwi/MyExeption.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/throwi/MyExeption.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/to_catch_error_exeption/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/to_catch_error_exeption/A.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/to_catch_error_exeption/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/to_catch_error_exeption/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/utocnenie_correlyacionnoy_function/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/utocnenie_correlyacionnoy_function/Main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/utocnenie_correlyacionnoy_function/Main$1.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/utocnenie_correlyacionnoy_function/Main$Info.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/utocnenie_correlyacionnoy_function/Main$Info.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/utocnenie_correlyacionnoy_function/Main$MyPointInt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/utocnenie_correlyacionnoy_function/Main$MyPointInt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/utocnenie_correlyacionnoy_function/Main$MyPointSubpixel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/utocnenie_correlyacionnoy_function/Main$MyPointSubpixel.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/utocnenie_correlyacionnoy_function/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/utocnenie_correlyacionnoy_function/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/utocnenie_correlyacionnoy_function/Main2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/utocnenie_correlyacionnoy_function/Main2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/utocnenie_correlyacionnoy_function/Main2$1.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/utocnenie_correlyacionnoy_function/Main2$MyPointInt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/utocnenie_correlyacionnoy_function/Main2$MyPointInt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/utocnenie_correlyacionnoy_function/Main2$MyPointSubpixel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/utocnenie_correlyacionnoy_function/Main2$MyPointSubpixel.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/utocnenie_correlyacionnoy_function/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/utocnenie_correlyacionnoy_function/Main2.class" afterDir="false" />
@@ -290,9 +298,11 @@
       <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/xml/test/java/persers/sax/MenuSaxHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/xml/test/java/persers/sax/MenuSaxHandler.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/xml/test/java/persers/sax/MenuTagName.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/xml/test/java/persers/sax/MenuTagName.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/xml/test/java/validate/MainValidate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/xml/test/java/validate/MainValidate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/advancedmiting2/advanced2_5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/advancedmiting2/advanced2_5/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/aattestation/threads/deadlock/MainDeadLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/aattestation/threads/deadlock/MainDeadLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/new_packege/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/new_packege/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/new_packege/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/new_packege/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/streams/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/streams/Main.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -308,6 +318,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -324,18 +335,38 @@
       <GitPushTagMode />
     </option>
   </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="m1-prod2.prod-v.v.gusev@tinkoff.ru" />
+    <option name="namespace" value="default" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1YoNkmsbrVQb3vJ3dKnFEmQjf5e" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577285538362" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../ags" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.20410156" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -345,32 +376,33 @@
       <recent name="C:\Users\Lenovo\Documents\IdeaProjects\JavaTheme\src\com\java\xml\test\java\persers\sax" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.MainCountString">
+  <component name="RunManager" selected="Application.Main12">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.aattestation.Main5" />
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.Main" />
       <module name="JavaTheme" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.aattestation.*" />
+          <option name="PATTERN" value="com.java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -378,13 +410,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainCountString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.aattestation.MainCountString" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.streams.Main" />
       <module name="JavaTheme" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.aattestation.*" />
+          <option name="PATTERN" value="com.java.streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -392,13 +424,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainFactorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.aattestation.MainFactorial" />
+    <configuration name="Main10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.yandex.Main10" />
       <module name="JavaTheme" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.aattestation.*" />
+          <option name="PATTERN" value="com.java.yandex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -406,13 +438,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainFastDeadLock2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.aattestation.MainFastDeadLock2" />
+    <configuration name="Main11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.yandex.Main11" />
       <module name="JavaTheme" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.aattestation.*" />
+          <option name="PATTERN" value="com.java.yandex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -420,27 +452,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainFastTwoSystems" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.aattestation.MainFastTwoSystems" />
+    <configuration name="Main12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.iterator.Main12" />
       <module name="JavaTheme" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java.aattestation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
+      <extension name="com.egoshard.intellij.k8s-runtime-config-plugin">
+        <option name="ENABLED" value="false" />
+        <entries />
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainImmutableObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.aattestation.MainImmutableObjects" />
-      <module name="JavaTheme" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.aattestation.*" />
+          <option name="PATTERN" value="com.java.iterator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -480,22 +501,23 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MainFastDeadLock2" />
-      <item itemvalue="Application.Main5" />
-      <item itemvalue="Application.MainFastTwoSystems" />
-      <item itemvalue="Application.MainFactorial" />
-      <item itemvalue="Application.MainCountString" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Main10" />
+      <item itemvalue="Application.Main11" />
+      <item itemvalue="Application.Main12" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainCountString" />
-        <item itemvalue="Application.MainFactorial" />
-        <item itemvalue="Application.MainFastTwoSystems" />
-        <item itemvalue="Application.Main5" />
-        <item itemvalue="Application.MainFastDeadLock2" />
+        <item itemvalue="Application.Main12" />
+        <item itemvalue="Application.Main11" />
+        <item itemvalue="Application.Main10" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -538,6 +560,29 @@
       <workItem from="1583605134839" duration="17741000" />
       <workItem from="1584193466895" duration="18000" />
       <workItem from="1585587168707" duration="91533000" />
+      <workItem from="1612734947164" duration="1608000" />
+      <workItem from="1612896178285" duration="1450000" />
+      <workItem from="1622978819691" duration="1547000" />
+      <workItem from="1623047477015" duration="24000" />
+      <workItem from="1628683393359" duration="1059000" />
+      <workItem from="1635447685816" duration="2226000" />
+      <workItem from="1635701112840" duration="21000" />
+      <workItem from="1636140630936" duration="8234000" />
+      <workItem from="1636225611514" duration="596000" />
+      <workItem from="1636355609307" duration="33000" />
+      <workItem from="1638388564211" duration="644000" />
+      <workItem from="1638403347841" duration="2125000" />
+      <workItem from="1638465766844" duration="244000" />
+      <workItem from="1638482596726" duration="745000" />
+      <workItem from="1639406965039" duration="3314000" />
+      <workItem from="1642435625297" duration="11000" />
+      <workItem from="1645122398493" duration="1323000" />
+      <workItem from="1645728413000" duration="1260000" />
+      <workItem from="1646662881513" duration="4636000" />
+      <workItem from="1648564867391" duration="4404000" />
+      <workItem from="1648656067218" duration="659000" />
+      <workItem from="1648667695265" duration="905000" />
+      <workItem from="1648672272568" duration="3267000" />
     </task>
     <task id="LOCAL-00001" summary="last commit">
       <created>1545291092914</created>
@@ -595,20 +640,25 @@
       <option name="project" value="LOCAL" />
       <updated>1562313718199</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="коммент">
+      <created>1612896417813</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1612896417813</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -632,16 +682,52 @@
     <MESSAGE value="манипуляции со временем" />
     <MESSAGE value="мягкие ссылки" />
     <MESSAGE value="last commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="last commit" />
+    <MESSAGE value="коммент" />
+    <option name="LAST_COMMIT_MESSAGE" value="коммент" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar://C:/Program Files/Java/jdk-13.0.1/lib/src.zip!/java.base/java/util/HashMap.java</url>
+          <url>jar://$PROJECT_DIR$/../../Program Files/Java/jdk-13.0.1/lib/src.zip!/java.base/java/util/HashMap.java</url>
           <line>643</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/new_packege/Main2.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/new_packege/Main2.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/new_packege/Main2.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/new_packege/Main2.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/new_packege/Main2.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/Main645645.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/Main645645.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
