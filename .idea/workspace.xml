@@ -20,288 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a79abb2d-5655-4790-aa61-5000d325c9e4" name="Default" comment="last commit">
-      <change afterPath="$PROJECT_DIR$/src/com/java/Main645645.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/aattestationsenior/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/aattestationsenior/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/aattestationsenior/Main4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/aattestationsenior/Main5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/aattestationsenior/Main6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/iterator/Main12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/threads/inc/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/yandex/Main10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/yandex/Main11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/yandex/Praktikum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/Main1235.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/ReportService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/yandex/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/yandex/Main435435.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/yandex/Main454.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/yandex/MainReportExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/yandex/MonthlyReport.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/ClassesAndObjectsAndEnum/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/ClassesAndObjectsAndEnum/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/ClassesAndObjectsAndEnum/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/ClassesAndObjectsAndEnum/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/ClassesAndObjectsAndEnum/D$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/ClassesAndObjectsAndEnum/D$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/ClassesAndObjectsAndEnum/D$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/ClassesAndObjectsAndEnum/D$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/ClassesAndObjectsAndEnum/D.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/ClassesAndObjectsAndEnum/D.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/ClassesAndObjectsAndEnum/K.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/ClassesAndObjectsAndEnum/K.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/ClassesAndObjectsAndEnum/MainClassesAndObjects.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/ClassesAndObjectsAndEnum/MainClassesAndObjects.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/InputOutput/MainInputOutput.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/InputOutput/MainInputOutput.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/InputOutput/Numbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/InputOutput/Numbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/TypeOfDataAndOperations/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/TypeOfDataAndOperations/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/TypeOfDataAndOperations/MainTypeOfDataAndOperations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/TypeOfDataAndOperations/MainTypeOfDataAndOperations.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced10/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced10/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced10/ResourceA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced10/ResourceA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced10/ResourceB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced10/ResourceB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced11/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced11/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced11/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced11/Main2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced12/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced12/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced12/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced12/Main2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced2/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced2/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced2/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced2/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced2/Example.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced2/Example.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced2/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced3/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced3/Main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced3/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced3/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced3/Main2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced4/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced4/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced4/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced4/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced5/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced5/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced6/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced6/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced7/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced7/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced7/MyThread1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced7/MyThread1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced7/MyThread2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced7/MyThread2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced7/ResourceA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced7/ResourceA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced7/ResourceB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced7/ResourceB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced8/Deadlock.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced8/Deadlock.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced8/FirstClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced8/FirstClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced8/SecondClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced8/SecondClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced9/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced9/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced9/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced9/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced9/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting/advanced9/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting2/advanced2_1/Gen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting2/advanced2_1/Gen.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting2/advanced2_1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting2/advanced2_1/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting2/advanced2_10/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting2/advanced2_10/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting2/advanced2_11/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting2/advanced2_11/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting2/advanced2_11/WithPrivateFinalField.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting2/advanced2_11/WithPrivateFinalField.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting2/advanced2_2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting2/advanced2_2/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting2/advanced2_3/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting2/advanced2_3/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting2/advanced2_3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting2/advanced2_3/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting2/advanced2_4/Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting2/advanced2_4/Item.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting2/advanced2_4/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting2/advanced2_4/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting2/advanced2_5/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting2/advanced2_5/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting2/advanced2_5/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting2/advanced2_5/Main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting2/advanced2_5/Main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting2/advanced2_5/Main$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting2/advanced2_5/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting2/advanced2_5/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting2/advanced2_6/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting2/advanced2_6/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting2/advanced2_6/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting2/advanced2_6/Main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting2/advanced2_6/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting2/advanced2_6/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting2/advanced2_7/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting2/advanced2_7/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting2/advanced2_7/ThreadB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting2/advanced2_7/ThreadB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting2/advanced2_8/MainSleep.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting2/advanced2_8/MainSleep.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting2/advanced2_8/MainWait.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting2/advanced2_8/MainWait.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting2/advanced2_8/ThreadA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting2/advanced2_8/ThreadA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting2/advanced2_8/ThreadB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting2/advanced2_8/ThreadB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting2/advanced2_9/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting2/advanced2_9/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting2/advanced2_9/ThreadA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting2/advanced2_9/ThreadA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting3/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting3/advanced3_1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting3/advanced3_1/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting3/advanced3_1/ResourceA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/advancedmiting3/advanced3_1/ResourceA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/annatations/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/annatations/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/annatations/packet/myAnnotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/annatations/packet/myAnnotation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/array_ssylka_ili_znachenie/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/array_ssylka_ili_znachenie/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/assertion/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/assertion/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/assertion/NegativeAge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/assertion/NegativeAge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/booleanexample/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/booleanexample/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/class_object/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/class_object/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/class_object/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/class_object/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/class_object/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/class_object/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/collections/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/collections/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/collections/B$K.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/collections/B$K.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/collections/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/collections/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/collections/Collections.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/collections/Collections.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/collections/MainCollections.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/collections/MainCollections.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/constI/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/constI/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/constructor/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/constructor/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/constructor/MyClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/constructor/MyClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/constructor/MyObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/constructor/MyObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/datatimeformatter/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/datatimeformatter/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/datatimeformatter/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/datatimeformatter/Main2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/datatimeformatter/MainAsInProject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/datatimeformatter/MainAsInProject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/datatimeformatter/MainReplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/datatimeformatter/MainReplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/datatimeformatter/MainUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/datatimeformatter/MainUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/datatimeformatter/Time.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/datatimeformatter/Time.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/datatimeformatter/Utils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/datatimeformatter/Utils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/datetime/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/datetime/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/datetime/Utils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/datetime/Utils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/defuilt_static_metods_interface/defuilt_metods/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/defuilt_static_metods_interface/defuilt_metods/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/defuilt_static_metods_interface/defuilt_metods/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/defuilt_static_metods_interface/defuilt_metods/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/defuilt_static_metods_interface/defuilt_metods/C.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/defuilt_static_metods_interface/defuilt_metods/C.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/defuilt_static_metods_interface/defuilt_metods/MainDefailMetodsInInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/defuilt_static_metods_interface/defuilt_metods/MainDefailMetodsInInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/defuilt_static_metods_interface/static_metods/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/defuilt_static_metods_interface/static_metods/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/defuilt_static_metods_interface/static_metods/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/defuilt_static_metods_interface/static_metods/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/defuilt_static_metods_interface/static_metods/MainStaticMetodsInInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/defuilt_static_metods_interface/static_metods/MainStaticMetodsInInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/directories/MainPaths.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/directories/MainPaths.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/executeservice/Main$MyCallable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/executeservice/Main$MyCallable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/executeservice/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/executeservice/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/executeservice/Main2$MyCallable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/executeservice/Main2$MyCallable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/executeservice/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/executeservice/Main2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/executeservice/Main4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/executeservice/Main4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/exeptions/Coin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/exeptions/Coin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/exeptions/CoinLogicException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/exeptions/CoinLogicException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/exeptions/CoinSmall.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/exeptions/CoinSmall.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/exeptions/MainExeptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/exeptions/MainExeptions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/findbugs/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/findbugs/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/floor/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/floor/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/formatter/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/formatter/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/framework/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/framework/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/framework/annotationInject/Inject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/framework/annotationInject/Inject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/framework/annotationInject/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/framework/annotationInject/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/framework/count_dirts_in_numbrer/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/framework/count_dirts_in_numbrer/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/framework/delimiter/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/framework/delimiter/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/framework/moskito/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/framework/moskito/Main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/framework/moskito/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/framework/moskito/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/framework/occupied/Cell.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/framework/occupied/Cell.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/framework/occupied/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/framework/occupied/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/framework/regular/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/framework/regular/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/hiding_static_metod/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/hiding_static_metod/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/hiding_static_metod/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/hiding_static_metod/Cat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/hiding_static_metod/MainYHadingStaticMetod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/hiding_static_metod/MainYHadingStaticMetod.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/initialization_examplies/InnerClassTest0$Inner1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/initialization_examplies/InnerClassTest0$Inner1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/initialization_examplies/InnerClassTest0.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/initialization_examplies/InnerClassTest0.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/initialization_examplies/MainInitialisation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/initialization_examplies/MainInitialisation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/initialization_examplies/Test$B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/initialization_examplies/Test$B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/initialization_examplies/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/initialization_examplies/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/initializationoblect/Child.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/initializationoblect/Child.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/initializationoblect/MainInitializationObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/initializationoblect/MainInitializationObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/initializationoblect/Parrent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/initializationoblect/Parrent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/inner_classes/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/inner_classes/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/inner_classes/Anonymous_Classes$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/inner_classes/Anonymous_Classes$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/inner_classes/Anonymous_Classes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/inner_classes/Anonymous_Classes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/inner_classes/B$Ship.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/inner_classes/B$Ship.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/inner_classes/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/inner_classes/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/inner_classes/EngineBig.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/inner_classes/EngineBig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/inner_classes/Inner_Classes$1A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/inner_classes/Inner_Classes$1A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/inner_classes/Inner_Classes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/inner_classes/Inner_Classes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/inner_classes/LifeBoatBig.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/inner_classes/LifeBoatBig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/inner_classes/Motor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/inner_classes/Motor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/inner_classes/Nested_Classes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/inner_classes/Nested_Classes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/inner_classes/P.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/inner_classes/P.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/inner_classes/Ship$Engine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/inner_classes/Ship$Engine.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/inner_classes/Ship.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/inner_classes/Ship.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/inner_classes/ShipBig$LifeBoat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/inner_classes/ShipBig$LifeBoat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/inner_classes/ShipBig.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/inner_classes/ShipBig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/instanseof/Main$ActivityApprovement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/instanseof/Main$ActivityApprovement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/instanseof/Main$Approvement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/instanseof/Main$Approvement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/instanseof/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/instanseof/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/interfaces_and_anotation/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/interfaces_and_anotation/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/interfaces_and_anotation/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/interfaces_and_anotation/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/interfaces_and_anotation/C.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/interfaces_and_anotation/C.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/interfaces_and_anotation/MainAnotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/interfaces_and_anotation/MainAnotation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/interfaces_and_anotation/MainInterfaces.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/interfaces_and_anotation/MainInterfaces.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/interfaces_and_anotation/Raiting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/interfaces_and_anotation/Raiting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/interfaces_and_anotation/Range.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/interfaces_and_anotation/Range.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/interfaces_and_anotation/Service.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/interfaces_and_anotation/Service.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/iterator/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/iterator/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/lambda/example/Converter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/lambda/example/Converter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/lambda/example/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/lambda/example/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/lambda/example2/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/lambda/example2/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/lambda/example2/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/lambda/example2/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/lambda/example2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/lambda/example2/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/lambda_constructors/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/lambda_constructors/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/lambda_constructors/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/lambda_constructors/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/lambda_constructors/PersonFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/lambda_constructors/PersonFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/lisitolist/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/lisitolist/Customer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/lisitolist/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/lisitolist/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/logic_blocks/Department.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/logic_blocks/Department.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/logic_blocks/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/logic_blocks/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/logicheskie_bloki/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/logicheskie_bloki/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/logicheskie_bloki/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/logicheskie_bloki/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/mapvaluetolist/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/mapvaluetolist/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/mapvaluetolist/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/mapvaluetolist/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/miltuthread/Main$Thread1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/miltuthread/Main$Thread1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/miltuthread/Main$Thread2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/miltuthread/Main$Thread2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/miltuthread/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/miltuthread/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/nullshow/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/nullshow/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/other/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/other/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/overate_metod/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/overate_metod/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/overate_metod/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/overate_metod/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/overate_metod/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/overate_metod/Cat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/overate_metod/Kitten.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/overate_metod/Kitten.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/overate_metod/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/overate_metod/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/overate_static/not_static/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/overate_static/not_static/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/overate_static/not_static/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/overate_static/not_static/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/overate_static/not_static/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/overate_static/not_static/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/overate_static/static_/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/overate_static/static_/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/overate_static/static_/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/overate_static/static_/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/overate_static/static_/MainStatic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/overate_static/static_/MainStatic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/parametr_classes/Exam.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/parametr_classes/Exam.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/parametr_classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/parametr_classes/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/peredacha_po_ssylke_i_znacheniiy/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/peredacha_po_ssylke_i_znacheniiy/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/peredacha_po_ssylke_i_znacheniiy/MyInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/peredacha_po_ssylke_i_znacheniiy/MyInteger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/recursion/MainRecursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/recursion/MainRecursion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/reflection/MainReflection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/reflection/MainReflection.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/reflection/MyClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/reflection/MyClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/regex/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/regex/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/size_arrays/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/size_arrays/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/softreference/MainSortReference.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/softreference/MainSortReference.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/softreference/SchedulingData.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/softreference/SchedulingData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/streams/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/streams/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/streams/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/streams/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/streams/C.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/streams/C.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/streams/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/streams/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/streams/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/streams/Main2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/streams/MainStreams.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/streams/MainStreams.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/streams/NeskolkoListov.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/streams/NeskolkoListov.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/streams/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/streams/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/string/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/string/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/string/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/string/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/string/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/string/Main2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/string_enjoy_strok/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/string_enjoy_strok/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/stringformat/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/stringformat/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/stroky/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/stroky/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/super_this/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/super_this/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/super_this/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/super_this/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/super_this/MainSuperThis.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/super_this/MainSuperThis.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/superwarious/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/superwarious/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/synchronizedI/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/synchronizedI/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/synchronizedI/MyInt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/synchronizedI/MyInt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/threads/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/threads/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/threads/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/threads/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/threads/JoinRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/threads/JoinRunner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/threads/JoinThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/threads/JoinThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/threads/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/threads/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/throwi/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/throwi/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/throwi/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/throwi/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/throwi/Main2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/throwi/Main2$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/throwi/Main2$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/throwi/Main2$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/throwi/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/throwi/Main2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/throwi/MyExeption.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/throwi/MyExeption.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/to_catch_error_exeption/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/to_catch_error_exeption/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/to_catch_error_exeption/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/to_catch_error_exeption/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/utocnenie_correlyacionnoy_function/Main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/utocnenie_correlyacionnoy_function/Main$Info.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/utocnenie_correlyacionnoy_function/Main$Info.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/utocnenie_correlyacionnoy_function/Main$MyPointInt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/utocnenie_correlyacionnoy_function/Main$MyPointInt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/utocnenie_correlyacionnoy_function/Main$MyPointSubpixel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/utocnenie_correlyacionnoy_function/Main$MyPointSubpixel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/utocnenie_correlyacionnoy_function/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/utocnenie_correlyacionnoy_function/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/utocnenie_correlyacionnoy_function/Main2$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/utocnenie_correlyacionnoy_function/Main2$MyPointInt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/utocnenie_correlyacionnoy_function/Main2$MyPointInt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/utocnenie_correlyacionnoy_function/Main2$MyPointSubpixel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/utocnenie_correlyacionnoy_function/Main2$MyPointSubpixel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/utocnenie_correlyacionnoy_function/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/utocnenie_correlyacionnoy_function/Main2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/values_in_interface/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/values_in_interface/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/values_in_interface/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/values_in_interface/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/values_in_interface/F.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/values_in_interface/F.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/values_in_interface/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/values_in_interface/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/varargs/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/varargs/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/varargs/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/varargs/Main2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/xml/test/java/persers/dom/MainDom.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/xml/test/java/persers/dom/MainDom.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/xml/test/java/persers/sax/Food.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/xml/test/java/persers/sax/Food.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/xml/test/java/persers/sax/MainSax.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/xml/test/java/persers/sax/MainSax.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/xml/test/java/persers/sax/MenuSaxHandler$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/xml/test/java/persers/sax/MenuSaxHandler$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/xml/test/java/persers/sax/MenuSaxHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/xml/test/java/persers/sax/MenuSaxHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/xml/test/java/persers/sax/MenuTagName.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/xml/test/java/persers/sax/MenuTagName.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTheme/com/java/xml/test/java/validate/MainValidate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTheme/com/java/xml/test/java/validate/MainValidate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/aattestation/threads/deadlock/MainDeadLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/aattestation/threads/deadlock/MainDeadLock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/new_packege/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/new_packege/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/new_packege/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/new_packege/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/streams/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/streams/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -355,7 +83,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577285538362" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ags" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -376,7 +104,7 @@
       <recent name="C:\Users\Lenovo\Documents\IdeaProjects\JavaTheme\src\com\java\xml\test\java\persers\sax" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main12">
+  <component name="RunManager" selected="Application.Main454">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -396,7 +124,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.java.Main" />
       <module name="JavaTheme" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -411,21 +139,7 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.streams.Main" />
-      <module name="JavaTheme" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java.streams.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.yandex.Main10" />
+      <option name="MAIN_CLASS_NAME" value="com.java.yandex.Main" />
       <module name="JavaTheme" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -438,8 +152,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.yandex.Main11" />
+    <configuration name="Main435435" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.yandex.Main435435" />
       <module name="JavaTheme" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -452,16 +166,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.iterator.Main12" />
+    <configuration name="Main454" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.yandex.Main454" />
       <module name="JavaTheme" />
-      <extension name="com.egoshard.intellij.k8s-runtime-config-plugin">
-        <option name="ENABLED" value="false" />
-        <entries />
-      </extension>
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.iterator.*" />
+          <option name="PATTERN" value="com.java.yandex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainReportExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.yandex.MainReportExample" />
+      <module name="JavaTheme" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.yandex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -501,19 +226,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Main (2)" />
-      <item itemvalue="Application.Main10" />
-      <item itemvalue="Application.Main11" />
-      <item itemvalue="Application.Main12" />
+      <item itemvalue="Application.Main435435" />
+      <item itemvalue="Application.MainReportExample" />
+      <item itemvalue="Application.Main454" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main12" />
-        <item itemvalue="Application.Main11" />
-        <item itemvalue="Application.Main10" />
+        <item itemvalue="Application.Main454" />
+        <item itemvalue="Application.MainReportExample" />
+        <item itemvalue="Application.Main435435" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -583,6 +308,16 @@
       <workItem from="1648656067218" duration="659000" />
       <workItem from="1648667695265" duration="905000" />
       <workItem from="1648672272568" duration="3267000" />
+      <workItem from="1648756447971" duration="2216000" />
+      <workItem from="1648827720089" duration="750000" />
+      <workItem from="1648986406563" duration="5372000" />
+      <workItem from="1650343757925" duration="2734000" />
+      <workItem from="1650913187319" duration="2447000" />
+      <workItem from="1651763075982" duration="4226000" />
+      <workItem from="1652013169822" duration="63000" />
+      <workItem from="1652196668493" duration="1823000" />
+      <workItem from="1652298356567" duration="2328000" />
+      <workItem from="1652345130827" duration="2365000" />
     </task>
     <task id="LOCAL-00001" summary="last commit">
       <created>1545291092914</created>
@@ -647,7 +382,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612896417813</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="last commit">
+      <created>1648756750191</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1648756750191</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -681,9 +423,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="манипуляции со временем" />
     <MESSAGE value="мягкие ссылки" />
-    <MESSAGE value="last commit" />
     <MESSAGE value="коммент" />
-    <option name="LAST_COMMIT_MESSAGE" value="коммент" />
+    <MESSAGE value="last commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="last commit" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -728,6 +470,26 @@
           <url>file://$PROJECT_DIR$/src/com/java/Main645645.java</url>
           <line>18</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/Main.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/Main.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/yandex/Main.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/yandex/Main.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
